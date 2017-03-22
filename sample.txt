@@ -1,1 +1,2 @@
 hi there
+pull: obtain the content of the remote repository
