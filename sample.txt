@@ -1,2 +1,3 @@
 hi there
 commit: Save the status of an index
+pull: obtain the content of the remote repository
